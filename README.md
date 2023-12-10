@@ -1,2 +1,2 @@
 # Projekat-Baze-2
-Projektovanje informacionih sistema i baza podataka
+Programiranje informacionih sistema i baza podataka
